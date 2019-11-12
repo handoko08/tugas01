@@ -33,6 +33,15 @@
             android:label="@string/app_name" >
                     </activity>
    
+        <activity
+            android:name="com.example.latihan01.profile"
+            android:label="@string/app_name" >
+                    </activity>
+                    
+        <activity
+            android:name="com.example.latihan01.Halamanquiz"
+            android:label="@string/app_name" >
+                    </activity>
    </application>
 
 </manifest>
